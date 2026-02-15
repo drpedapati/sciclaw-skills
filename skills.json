@@ -49,11 +49,11 @@
     "tags": ["diagrams", "mermaid", "visualization"]
   },
   {
-    "name": "docx",
-    "repository": "drpedapati/sciclaw-skills",
-    "description": "Create, read, edit, or analyze Microsoft Word .docx files, including reports, manuscripts, templates, or tracked-change workflows.",
-    "author": "sciclaw",
-    "tags": ["office", "docx", "word"]
+    "name": "docx-review",
+    "repository": "henrybloomingdale/docx-review",
+    "description": "Read, edit, and diff Word documents with tracked changes and comments using Microsoft's Open XML SDK. Includes NIH template.",
+    "author": "henrybloomingdale",
+    "tags": ["office", "docx", "tracked-changes", "review", "word"]
   },
   {
     "name": "pptx",

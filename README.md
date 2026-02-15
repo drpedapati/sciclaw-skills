@@ -16,12 +16,12 @@ Skills catalog for [sciClaw](https://github.com/drpedapati/sciclaw), the scienti
 | `beautiful-mermaid` | Build publication-grade Mermaid diagrams for manuscript assets |
 
 ### Office & Documents
-| Skill | Description |
-|-------|-------------|
-| `docx` | Create, read, edit, or analyze Microsoft Word .docx files |
-| `pptx` | Create, edit, summarize, or analyze .pptx slide decks |
-| `xlsx` | Create, edit, clean, analyze, or convert spreadsheet files |
-| `pdf` | Create, read, merge, split, transform, or extract data from PDFs |
+| Skill | Description | Source |
+|-------|-------------|--------|
+| `docx-review` | Word documents with tracked changes, comments, diff (Open XML SDK) | [henrybloomingdale/docx-review](https://github.com/henrybloomingdale/docx-review) |
+| `pptx` | Create, edit, summarize, or analyze .pptx slide decks | local |
+| `xlsx` | Create, edit, clean, analyze, or convert spreadsheet files | local |
+| `pdf` | Create, read, merge, split, transform, or extract data from PDFs | local |
 
 ### Development & Utilities
 | Skill | Description |
