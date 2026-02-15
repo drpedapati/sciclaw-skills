@@ -1,0 +1,121 @@
+[
+  {
+    "name": "scientific-writing",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Draft and revise scientific manuscript sections with claim-evidence alignment and reproducible method reporting.",
+    "author": "sciclaw",
+    "tags": ["science", "writing", "manuscript"]
+  },
+  {
+    "name": "quarto-authoring",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Author and render Quarto manuscript documents (.qmd) with consistent formatting and loop-by-loop updates.",
+    "author": "sciclaw",
+    "tags": ["science", "quarto", "authoring"]
+  },
+  {
+    "name": "pubmed-database",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Query PubMed with reproducible search terms and collect citation metadata for literature review workflows.",
+    "author": "sciclaw",
+    "tags": ["science", "pubmed", "literature"]
+  },
+  {
+    "name": "biorxiv-database",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Search and summarize preprints from bioRxiv/medRxiv with explicit date windows and traceable query logs.",
+    "author": "sciclaw",
+    "tags": ["science", "biorxiv", "preprints"]
+  },
+  {
+    "name": "experiment-provenance",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Capture experiment provenance with reproducible run metadata, artifact pointers, and decision logs for scientific claims.",
+    "author": "sciclaw",
+    "tags": ["science", "provenance", "experiments"]
+  },
+  {
+    "name": "benchmark-logging",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Define benchmark runs and log outcomes with consistent metrics, acceptance criteria, and reproducible artifact references.",
+    "author": "sciclaw",
+    "tags": ["science", "benchmarks", "logging"]
+  },
+  {
+    "name": "beautiful-mermaid",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Build publication-grade Mermaid diagrams with consistent styling and SVG-first export for manuscript assets.",
+    "author": "sciclaw",
+    "tags": ["diagrams", "mermaid", "visualization"]
+  },
+  {
+    "name": "docx",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Create, read, edit, or analyze Microsoft Word .docx files, including reports, manuscripts, templates, or tracked-change workflows.",
+    "author": "sciclaw",
+    "tags": ["office", "docx", "word"]
+  },
+  {
+    "name": "pptx",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Create, edit, summarize, template, merge, or analyze .pptx slide decks.",
+    "author": "sciclaw",
+    "tags": ["office", "pptx", "presentations"]
+  },
+  {
+    "name": "xlsx",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Create, edit, clean, analyze, or convert spreadsheet files (.xlsx, .xlsm, .csv, .tsv).",
+    "author": "sciclaw",
+    "tags": ["office", "xlsx", "spreadsheets"]
+  },
+  {
+    "name": "pdf",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Create, read, merge, split, transform, OCR-process, or extract data from PDF files.",
+    "author": "sciclaw",
+    "tags": ["office", "pdf", "documents"]
+  },
+  {
+    "name": "github",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Interact with GitHub using the gh CLI for issues, PRs, CI runs, and advanced queries.",
+    "author": "sciclaw",
+    "tags": ["dev", "github", "git"]
+  },
+  {
+    "name": "tmux",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+    "author": "sciclaw",
+    "tags": ["dev", "tmux", "terminal"]
+  },
+  {
+    "name": "summarize",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Summarize or extract text/transcripts from URLs, podcasts, and local files.",
+    "author": "sciclaw",
+    "tags": ["utility", "summarize", "transcription"]
+  },
+  {
+    "name": "humanize-text",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Rewrite AI-generated text to sound naturally human-written with conversational tone.",
+    "author": "sciclaw",
+    "tags": ["writing", "humanize", "rewriting"]
+  },
+  {
+    "name": "weather",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Get current weather and forecasts (no API key required).",
+    "author": "sciclaw",
+    "tags": ["utility", "weather"]
+  },
+  {
+    "name": "skill-creator",
+    "repository": "drpedapati/sciclaw-skills",
+    "description": "Create or update AgentSkills with scripts, references, and assets.",
+    "author": "sciclaw",
+    "tags": ["dev", "skills", "meta"]
+  }
+]
