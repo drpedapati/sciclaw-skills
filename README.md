@@ -5,15 +5,15 @@ Skills catalog for [sciClaw](https://github.com/drpedapati/sciclaw), the scienti
 ## Skills
 
 ### Science & Research
-| Skill | Description |
-|-------|-------------|
-| `scientific-writing` | Draft and revise scientific manuscript sections with claim-evidence alignment |
-| `quarto-authoring` | Author and render Quarto manuscript documents (.qmd) |
-| `pubmed-database` | Query PubMed with reproducible search terms and collect citation metadata |
-| `biorxiv-database` | Search and summarize preprints from bioRxiv/medRxiv |
-| `experiment-provenance` | Capture experiment provenance with reproducible run metadata |
-| `benchmark-logging` | Define benchmark runs and log outcomes with consistent metrics |
-| `beautiful-mermaid` | Build publication-grade Mermaid diagrams for manuscript assets |
+| Skill | Description | Source |
+|-------|-------------|--------|
+| `scientific-writing` | Draft and revise scientific manuscript sections with claim-evidence alignment | local |
+| `quarto-authoring` | Author and render Quarto manuscript documents (.qmd) | local |
+| `pubmed-cli` | Search PubMed, fetch articles, citation graphs, MeSH lookup | [drpedapati/pubmed-cli](https://github.com/drpedapati/pubmed-cli) |
+| `biorxiv-database` | Search and summarize preprints from bioRxiv/medRxiv | local |
+| `experiment-provenance` | Capture experiment provenance with reproducible run metadata | local |
+| `benchmark-logging` | Define benchmark runs and log outcomes with consistent metrics | local |
+| `beautiful-mermaid` | Build publication-grade Mermaid diagrams for manuscript assets | local |
 
 ### Office & Documents
 | Skill | Description | Source |

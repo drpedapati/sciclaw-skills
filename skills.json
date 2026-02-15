@@ -14,11 +14,11 @@
     "tags": ["science", "quarto", "authoring"]
   },
   {
-    "name": "pubmed-database",
-    "repository": "drpedapati/sciclaw-skills",
-    "description": "Query PubMed with reproducible search terms and collect citation metadata for literature review workflows.",
-    "author": "sciclaw",
-    "tags": ["science", "pubmed", "literature"]
+    "name": "pubmed-cli",
+    "repository": "drpedapati/pubmed-cli",
+    "description": "Search PubMed, fetch articles, traverse citation graphs, and look up MeSH terms. Built-in rate limiting, JSON/CSV/RIS output.",
+    "author": "drpedapati",
+    "tags": ["science", "pubmed", "literature", "citations", "mesh"]
   },
   {
     "name": "biorxiv-database",
